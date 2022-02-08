@@ -17,11 +17,14 @@ HTML5, CSS3, Bootstrap, AngularJS, PHP & MYSQL
 ![image](https://user-images.githubusercontent.com/89564985/152682647-0b773c60-f278-4551-acaa-c9e0b67f7668.png)<br>
 ![image](https://user-images.githubusercontent.com/89564985/152682770-bb77f294-f18f-4c7e-95b5-7c371fca72c3.png)<br>
 ![image](https://user-images.githubusercontent.com/89564985/152682780-94cc998c-6246-4a0c-bb39-fc24872a9192.png)<br>
-![image](https://user-images.githubusercontent.com/89564985/152995512-1a7697e3-b88b-49b5-abc3-7a067da0a1c3.png)<br>
+![image](https://user-images.githubusercontent.com/89564985/152995770-62ed4ed0-a335-4ef9-bb48-efe89d5a6a86.png)<br>
 ![image](https://user-images.githubusercontent.com/89564985/152682792-016295d7-ef55-4b00-93a3-bb5df949234d.png)<br>
 ![image](https://user-images.githubusercontent.com/89564985/152682815-42ba96a4-8842-488e-8466-a0733ffe645c.png)<br>
 
-Similarly for Division B
+Similarly for Division B<br>
+![image](https://user-images.githubusercontent.com/89564985/152995831-0010ae77-9b8f-4f12-81f4-45fac942d4bf.png)<br>
+![image](https://user-images.githubusercontent.com/89564985/152995908-9c770c09-bbe5-433a-a9dd-63aa8a2dffba.png)<br>
+![image](https://user-images.githubusercontent.com/89564985/152995941-4e6a5598-cbde-40f4-97c2-888339ed2c58.png)<br>
 
 ## Database screenshots:
 * Division A:
